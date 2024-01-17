@@ -3,8 +3,8 @@ package Matriz;
 import java.util.Scanner;
 
 public class Matriz {
-    static final int LIN = 10;
-    static final int COL = 10;
+    static final int LIN = 10; // Fixar limite da coluna
+    static final int COL = 10; // Fixar limite da coluna
 
     public static void main(String[] args) {
 
